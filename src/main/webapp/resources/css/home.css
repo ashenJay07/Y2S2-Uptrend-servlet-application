@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+.cart-btn {
+	font-size: 50px;
+	color: white;
+}
+
+.cart-btn {
+	border: none !important;
+}
+
+.cart-btn-frame:hover {
+	border: 1px solid !important;
+	border-color: white !important;
+}
+
+.home-nav a {
+	font-size: 26px;
+	padding: 15px 0;
+}
+
+.home-nav a:hover {
+	cursor: pointer;
+}
+
+.card-frame {
+	padding: 0 50px !important;
+}
